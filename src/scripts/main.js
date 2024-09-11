@@ -1,1 +1,1 @@
-console.log("Ol[a mundo");
+AOS.init();
